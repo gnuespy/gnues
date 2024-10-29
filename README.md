@@ -17,7 +17,8 @@
   ![유동인구 카운트 영상](https://user-images.githubusercontent.com/yourusername/your-video-file1.mp4)
 - **시연 코드**:  
   https://colab.research.google.com/drive/1HBEczAtKcUGLVwSKN1y0ARvGKkRyEdpq?usp=sharing
-
+- **시연 영상**:
+  https://github.com/gnuespy/gnues/blob/main/sjk.jpg
 ---
 
 ### 2. 도둑감지 YOLO 신경망 활용 파일럿 프로젝트
