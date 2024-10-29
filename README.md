@@ -18,7 +18,9 @@
 - **시연 코드**:  
   https://colab.research.google.com/drive/1HBEczAtKcUGLVwSKN1y0ARvGKkRyEdpq?usp=sharing
 - **시연 영상**:
-  https://github.com/gnuespy/gnues/blob/main/sjk.jpg
+  
+  ![image](https://github.com/user-attachments/assets/8fbb7590-ace0-4af1-81a9-44e8845aa621)
+
 ---
 
 ### 2. 도둑감지 YOLO 신경망 활용 파일럿 프로젝트
