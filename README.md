@@ -15,6 +15,8 @@
   - [OpenCV 공식 문서](https://docs.opencv.org/)
 - **시연 영상**:  
   ![유동인구 카운트 영상](https://user-images.githubusercontent.com/yourusername/your-video-file1.mp4)
+- **시연 코드**:  
+  https://colab.research.google.com/drive/1HBEczAtKcUGLVwSKN1y0ARvGKkRyEdpq?usp=sharing
 
 ---
 
