@@ -47,36 +47,7 @@
 
 ---
 
-### 3. 차량 흐름 분석 파일럿 프로젝트
-- **프로젝트 설명**: 도로 영상에서 차량 객체를 감지하고, 차량 흐름을 분석하여 교통 밀집도를 예측.
-- **주요 기능**: 차량 객체 탐지, 밀집도 분석, 실시간 데이터 시각화.
-- **관련 링크**:
-  - [교통 데이터 API](https://traffic-api.com/)
-- **시연 영상**:  
-  ![차량 흐름 분석 영상](https://user-images.githubusercontent.com/yourusername/your-video-file3.mp4)
-
----
-
-### 4. 얼굴 인식 출입 시스템 파일럿 프로젝트
-- **프로젝트 설명**: YOLO와 얼굴 인식 모델을 이용한 출입 관리 시스템.
-- **주요 기능**: 얼굴 인식을 통한 출입 허가, 기록 관리, 출입 로그.
-- **관련 링크**:
-  - [얼굴 인식 모델 다운로드](https://facerecognition-model.com/)
-- **시연 영상**:  
-  ![얼굴 인식 시스템 영상](https://user-images.githubusercontent.com/yourusername/your-video-file4.mp4)
-
----
-
-### 5. 안전 헬멧 착용 감지 파일럿 프로젝트
-- **프로젝트 설명**: 작업 현장에서 안전 헬멧 착용 여부를 감지하여 안전 규정을 준수하는지 확인.
-- **주요 기능**: 헬멧 착용 감지, 안전 경고, 실시간 알림.
-- **관련 링크**:
-  - [헬멧 감지 데이터셋](https://helmet-dataset.com/)
-- **시연 영상**:  
-  ![헬멧 착용 감지 영상](https://user-images.githubusercontent.com/yourusername/your-video-file5.mp4)
-
----
-
+=
 ## 설치 및 실행 방법
 
 1. 필요한 라이브러리 설치:
